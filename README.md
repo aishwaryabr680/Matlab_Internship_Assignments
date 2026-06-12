@@ -1,172 +1,119 @@
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Internship Portfolio</title>
-</head>
-<body>
+<h1 align="center">💼 Internship Journey</h1>
 
-    <h1 align="center">🚀 Internship Portfolio</h1>
+<p align="center">
+  Documenting my daily assignments, projects, learning outcomes, and achievements throughout my internship.
+</p>
 
-    <p align="center">
-        A comprehensive record of my internship journey, including daily assignments,
-        project contributions, learning outcomes, and technical achievements.
-    </p>
+<hr>
 
-    <hr>
+<h2>🚀 About This Repository</h2>
 
-    <h2>📋 Internship Details</h2>
+<p>
+This repository contains all the tasks, projects, notes, and documentation completed during my internship. It serves as a record of my progress, technical growth, and contributions.
+</p>
 
-    <ul>
-        <li><strong>Intern Name:</strong> Your Name</li>
-        <li><strong>Organization:</strong> Company Name</li>
-        <li><strong>Role:</strong> Intern Position</li>
-        <li><strong>Duration:</strong> Start Date - End Date</li>
-        <li><strong>Mentor:</strong> Mentor Name</li>
-    </ul>
+<h2>📅 Daily Work Log</h2>
 
-    <hr>
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Task</th>
+    <th>Status</th>
+  </tr>
 
-    <h2>🎯 Internship Objectives</h2>
+  <tr>
+    <td>Day 1</td>
+    <td>Environment Setup & Introduction</td>
+    <td>✅ Completed</td>
+  </tr>
 
-    <ul>
-        <li>Gain practical industry experience.</li>
-        <li>Apply theoretical knowledge to real-world projects.</li>
-        <li>Develop technical and professional skills.</li>
-        <li>Contribute to organizational goals through assigned tasks.</li>
-    </ul>
+  <tr>
+    <td>Day 2</td>
+    <td>Git & GitHub Workflow</td>
+    <td>✅ Completed</td>
+  </tr>
 
-    <hr>
+  <tr>
+    <td>Day 3</td>
+    <td>Assigned Development Tasks</td>
+    <td>✅ Completed</td>
+  </tr>
 
-    <h2>📅 Daily Assignments Log</h2>
+  <!-- Add more days here -->
 
-    <table border="1" cellpadding="8">
-        <tr>
-            <th>Day</th>
-            <th>Date</th>
-            <th>Assignment</th>
-            <th>Skills Learned</th>
-        </tr>
+</table>
 
-        <tr>
-            <td>Day 1</td>
-            <td>DD/MM/YYYY</td>
-            <td>Company onboarding and environment setup</td>
-            <td>Git, Development Environment</td>
-        </tr>
+<h2>📂 Projects</h2>
 
-        <tr>
-            <td>Day 2</td>
-            <td>DD/MM/YYYY</td>
-            <td>Completed introductory training modules</td>
-            <td>Technology Fundamentals</td>
-        </tr>
+<h3>🔹 Project 1 - Project Name</h3>
 
-        <tr>
-            <td>Day 3</td>
-            <td>DD/MM/YYYY</td>
-            <td>Worked on assigned task/module</td>
-            <td>Problem Solving, Coding</td>
-        </tr>
+<ul>
+  <li><b>Description:</b> Brief project overview.</li>
+  <li><b>Technologies:</b> HTML, CSS, JavaScript, React, etc.</li>
+  <li><b>Key Contributions:</b></li>
+  <ul>
+    <li>Implemented features</li>
+    <li>Fixed bugs</li>
+    <li>Improved UI/UX</li>
+  </ul>
+</ul>
 
-        <!-- Add additional days as needed -->
+<h3>🔹 Project 2 - Project Name</h3>
 
-    </table>
+<ul>
+  <li><b>Description:</b> Brief project overview.</li>
+  <li><b>Technologies:</b> Python, Flask, MySQL, etc.</li>
+  <li><b>Key Contributions:</b></li>
+  <ul>
+    <li>Database design</li>
+    <li>API development</li>
+    <li>Testing & deployment</li>
+  </ul>
+</ul>
 
-    <hr>
+<h2>🛠 Tech Stack</h2>
 
-    <h2>💼 Projects Completed</h2>
+<p>
+HTML • CSS • JavaScript • React • Node.js • Python • Git • GitHub
+</p>
 
-    <h3>Project 1: Project Name</h3>
+<h2>📈 Skills Gained</h2>
 
-    <p>
-        <strong>Description:</strong>
-        Brief overview of the project and its purpose.
-    </p>
+<ul>
+  <li>Version Control (Git & GitHub)</li>
+  <li>Team Collaboration</li>
+  <li>Software Development Lifecycle</li>
+  <li>Problem Solving</li>
+  <li>Debugging & Testing</li>
+  <li>Project Documentation</li>
+</ul>
 
-    <p>
-        <strong>Technologies Used:</strong>
-        HTML, CSS, JavaScript, Python, Java, etc.
-    </p>
+<h2>🏆 Achievements</h2>
 
-    <p>
-        <strong>Responsibilities:</strong>
-    </p>
+<ul>
+  <li>Completed all assigned tasks on schedule.</li>
+  <li>Contributed to real-world development projects.</li>
+  <li>Learned industry-standard development practices.</li>
+  <li>Improved coding and collaboration skills.</li>
+</ul>
 
-    <ul>
-        <li>Developed project modules.</li>
-        <li>Implemented new features.</li>
-        <li>Tested and debugged applications.</li>
-        <li>Collaborated with team members.</li>
-    </ul>
+<h2>📊 Progress</h2>
 
-    <p>
-        <strong>Outcome:</strong>
-        Successfully completed and deployed the project.
-    </p>
+<p>
+████████████████████░░ 90% Complete
+</p>
 
-    <hr>
+<h2>📬 Connect With Me</h2>
 
-    <h2>🛠 Technologies & Tools</h2>
+<p>
+<a href="https://github.com/yourusername">GitHub</a> |
+<a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
 
-    <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-        <li>Java</li>
-        <li>Git & GitHub</li>
-        <li>VS Code</li>
-        <li>Database Technologies</li>
-    </ul>
+<hr>
 
-    <hr>
-
-    <h2>📈 Skills Acquired</h2>
-
-    <ul>
-        <li>Software Development</li>
-        <li>Version Control with Git</li>
-        <li>Team Collaboration</li>
-        <li>Project Documentation</li>
-        <li>Debugging and Testing</li>
-        <li>Problem Solving</li>
-    </ul>
-
-    <hr>
-
-    <h2>🏆 Key Achievements</h2>
-
-    <ul>
-        <li>Successfully completed assigned tasks before deadlines.</li>
-        <li>Contributed to project development and testing.</li>
-        <li>Improved technical proficiency in industry-standard tools.</li>
-        <li>Enhanced teamwork and communication skills.</li>
-    </ul>
-
-    <hr>
-
-    <h2>📚 Learning Outcomes</h2>
-
-    <p>
-        This internship provided valuable hands-on experience in software
-        development, project management, teamwork, and professional practices.
-        It strengthened both technical expertise and workplace skills.
-    </p>
-
-    <hr>
-
-    <h2>📬 Contact</h2>
-
-    <p>
-        <strong>Name:</strong> Your Name <br>
-        <strong>Email:</strong> your.email@example.com <br>
-        <strong>GitHub:</strong> https://github.com/yourusername <br>
-        <strong>LinkedIn:</strong> https://linkedin.com/in/yourprofile
-    </p>
-
-</body>
-</html>
+<p align="center">
+✨ Learning • Building • Growing Every Day ✨
+</p>
 ```
